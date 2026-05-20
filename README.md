@@ -10,9 +10,4 @@ Muchos estudiantes tienen dificultades para organizar sus tareas académicas, lo
 - Estudiantes de colegio
 - Estudiantes universitarios
 - Personas que necesitan una herramienta básica de organización de tareas
-
-##  Integrantes y roles
-- Líder de proyecto: 
-- Diseñador digital: 
-- Documentador: 
-- Administrador GitHub: 
+ 
