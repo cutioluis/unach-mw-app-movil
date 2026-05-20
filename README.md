@@ -13,3 +13,10 @@ Muchos estudiantes tienen dificultades para organizar sus tareas académicas, lo
 - Estudiantes universitarios
 - Personas que necesitan una herramienta básica de organización de tareas
  
+
+| Integrante           | Rol                  | Función                              |
+| -------------------- | --------------------- | ------------------------------------ |
+| Rafael Verdezoto     | Líder de proyecto     | Coordina el trabajo                  |
+| Alejandro Guapulema  | Administrador GitHub  | Gestiona repositorio y archivos      |
+| Luis Cutiopala       | Documentador          | Redacta información                  |
+| Mayi Santana         | Diseñador digital     | Organiza presentación visual         |
