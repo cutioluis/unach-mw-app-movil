@@ -20,3 +20,5 @@ Muchos estudiantes tienen dificultades para organizar sus tareas académicas, lo
 | Alejandro Guapulema  | Administrador GitHub  | Gestiona repositorio y archivos      |
 | Luis Cutiopala       | Documentador          | Redacta información                  |
 | Mayi Santana         | Diseñador digital     | Organiza presentación visual         |
+| Katerine Mishell Chirau Viñan         | Diseñador digital     | Creación del logo digital y bocetos       |
+
