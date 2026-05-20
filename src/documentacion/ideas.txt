@@ -1,0 +1,25 @@
+Funciones principales
+Crear nuevas tareas de forma rápida.
+Agregar nombre y descripción a cada tarea.
+Visualizar la cantidad total de tareas registradas.
+Interfaz minimalista y fácil de usar.
+Botón principal para añadir tareas de manera intuitiva.
+Diseño oscuro moderno enfocado en productividad.
+Ventajas
+Diseño simple y limpio inspirado en interfaces modernas tipo Apple.
+Fácil de entender para cualquier usuario.
+Reduce distracciones gracias a la interfaz minimalista.
+Ideal para organizar tareas rápidas del día a día.
+Experiencia visual elegante y cómoda para uso nocturno.
+Puede adaptarse fácilmente a móvil y escritorio.
+Posibles mejoras futuras
+Marcar tareas como completadas.
+Sistema de prioridades (alta, media, baja).
+Fechas límite y recordatorios.
+Categorías o etiquetas para organizar tareas.
+Sincronización en la nube.
+Autenticación de usuarios.
+Modo claro/oscuro automático.
+Drag & Drop para reorganizar tareas.
+Notificaciones push en móvil.
+Estadísticas de productividad y tareas completadas.
