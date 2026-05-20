@@ -1,5 +1,7 @@
 # SmartTask – Gestor de Tareas Estudiantiles
 
+![Texto alternativo](https://github.com/cutioluis/unach-mw-app-movil/blob/main/src/imagenes/Boceto.png?raw=true)
+
 ##  Objetivo
 Desarrollar una propuesta de aplicación móvil simple que permita a los estudiantes organizar sus tareas diarias de forma rápida, clara y eficiente, mejorando su productividad y gestión del tiempo.
 
